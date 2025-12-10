@@ -1,0 +1,13 @@
+.card{
+    background-color: rgba(39, 38, 38, 0.959);
+    padding: 20px 50px 30px;
+    color: white;
+    position: relative;
+}
+.buttons{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 60px;
+}
+
